@@ -30,4 +30,4 @@ Before running the project, ensure you have the following installed:
 
 3. Start the development server:
    ```bash
-   npm run dev# IvfSuccessCalculator
+   npm run dev

@@ -1,6 +1,6 @@
 # IVF Success Calculator
 
-This project is a web application that estimates IVF success rates based on user input. It uses **Next.js** for the frontend and backend, along with **react-hook-form** for form handling and **Chart.js** for visualizing results.
+This project is a web application that estimates IVF success rates based on user input. It uses **Next.js** for the frontend and backend, along with **react-hook-form** for form handling
 
 ## Features
 - User-friendly form to input IVF-related data.
